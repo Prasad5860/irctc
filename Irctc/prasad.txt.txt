@@ -1,0 +1,165 @@
+
+-->select * from Passsengers_207
+
+"pnrnumber"	"from_station"	"to_station"	"doj"	"train_no"	"train_name"	"gclass"	"passengername"
+603642	"Visakhapatnam"	"Vijayawada"	"2024-04-30"	"106"	"Thirumala Express"	"secondClass"	"Prasadreddy"
+767445	"Guntur"	"Hyderbad"	"2024-04-28"	"110"	"Charminar Express"	"secondClass"	"Prasadreddy"
+680385	"Rajahmundry"	"Nellore"	"2024-04-28"	"106"	"Thirumala Express"	"secondClass"	"Pandu"
+478575	"Rajahmundry"	"Vijayawada"	"2024-04-30"	"109"	"Seshadri Express"	"Two_tier AC"	"Krishna"
+613794	"Visakhapatnam"	"Rajahmundry"	"2024-04-30"	"107"	"JanmaBhumi SF Express"	"Two_tier AC"	"Krishna"
+831362	"Visakhapatnam"	"Tirupathi"	"2024-05-30"	"106"	"Thirumala Express"	"Two_tier AC"	"Nithin Naga"
+874190	"Vijayawada"	"Tirupathi"	"2024-04-30"	"108"	"Padmavathi SF Express"	"Two_tier AC"	"Sudheer Y"
+695696	"Visakhapatnam"	"Ongole"	"2024-04-28"	"106"	"Thirumala Express"	"Select Class"	"Prasadreddy"
+695696	"Visakhapatnam"	"Ongole"	"2024-04-28"	"106"	"Thirumala Express"	"Select Class"	"Nithin Naga"
+695696	"Visakhapatnam"	"Ongole"	"2024-04-28"	"106"	"Thirumala Express"	"Select Class"	"Sudheer"
+333659	"Visakhapatnam"	"Ongole"	"2024-04-28"	"106"	"Thirumala Express"	"Two_tier AC"	"Prasadreddy"
+333659	"Visakhapatnam"	"Ongole"	"2024-04-28"	"106"	"Thirumala Express"	"Two_tier AC"	"Nithin Naga"
+333659	"Visakhapatnam"	"Ongole"	"2024-04-28"	"106"	"Thirumala Express"	"Two_tier AC"	"Sudheer"
+519778	"Visakhapatnam"	"Ongole"	"2024-04-28"	"106"	"Thirumala Express"	"secondClass"	"Prasadreddy"
+519778	"Visakhapatnam"	"Ongole"	"2024-04-28"	"106"	"Thirumala Express"	"secondClass"	"Nithin Naga"
+519778	"Visakhapatnam"	"Ongole"	"2024-04-28"	"106"	"Thirumala Express"	"secondClass"	"Sudheer"
+743434	"Visakhapatnam"	"Rajahmundry"	"2024-04-28"	"107"	"JanmaBhumi SF Express"	"secondClass"	"JambalHat"
+898961	"Visakhapatnam"	"Rajahmundry"	"2024-04-29"	"106"	"Thirumala Express"	"Two_tier AC"	"sdfdsf"
+124030	"Visakhapatnam"	"Rajahmundry"	"2024-04-29"	"106"	"Thirumala Express"	"Two_tier AC"	"sdfdsf"
+664720	"Visakhapatnam"	"Nellore"	"2024-04-28"	"106"	"Thirumala Express"	"Two_tier AC"	"dsg"
+558267	"Vijayawada"	"Nellore"	"2024-04-28"	"106"	"Thirumala Express"	"Three_tier AC"	"Nithin Naga"
+497909	"Rajahmundry"	"Vijayawada"	"2024-04-30"	"109"	"Seshadri Express"	"secondClass"	"sfdsf"
+443502	"Vijayawada"	"Vijayawada"	"2024-04-30"	"109"	"Seshadri Express"	"secondClass"	"fgjfgj"
+782460	"Rajahmundry"	"Ongole"	"2024-04-27"	"106"	"Thirumala Express"	"Three_tier AC"	"varma"
+752725	"Rajahmundry"	"Kakinada"	"2024-04-26"	"114"	"Sheshadri Express"	"General"	"varma"
+752725	"Rajahmundry"	"Kakinada"	"2024-04-26"	"114"	"Sheshadri Express"	"General"	"varun"
+569439	"Kakinada"	"Ongole"	"2024-04-26"	"109"	"Seshadri Express"	"Two_tier AC"	"varma"
+521596	"Rajahmundry"	"Visakhapatnam"	"2024-05-12"	"112"	"Ratnachal Express"	"Three_tier AC"	"varma"
+521596	"Rajahmundry"	"Visakhapatnam"	"2024-05-12"	"112"	"Ratnachal Express"	"Three_tier AC"	"varun"
+136784	"Kakinada"	"Nellore"	"2024-04-26"	"109"	"Seshadri Express"	"secondClass"	"varma"
+632086	"Vijayawada"	"Rajahmundry"	"2024-04-27"	"106"	"Thirumala Express"	"secondClass"	"Prasadreddy"
+632086	"Vijayawada"	"Rajahmundry"	"2024-04-27"	"106"	"Thirumala Express"	"secondClass"	"Nithin Naga"
+300682	"Vijayawada"	"Rajahmundry"	"2024-04-27"	"106"	"Thirumala Express"	"secondClass"	"Prasadreddy"
+300682	"Vijayawada"	"Rajahmundry"	"2024-04-27"	"106"	"Thirumala Express"	"secondClass"	"Nithin Naga"
+
+-->select * from Stations_207
+
+
+"station_id"	"station_name"
+1	"Vijayawada"
+2	"Guntur"
+3	"Visakhapatnam"
+4	"Rajahmundry"
+6	"Kakinada"
+7	"Nellore"
+8	"Ongole"
+10	"Chennai"
+11	"Banglore"
+5	"Tirupathi"
+9	"Hyderbad"
+
+
+
+-->select * from train_schedule_207
+
+"train_no"	"train_index"	"station_name"
+106	1	"Visakhapatnam"
+106	2	"Vijayawada"
+106	3	"Rajahmundry"
+106	4	"Ongole"
+106	5	"Nellore"
+106	6	"Tirupathi"
+107	1	"Visakhapatnam"
+107	2	"Rajahmundry"
+107	3	"Vijayawada"
+107	4	"Guntur"
+107	5	"Hyderbad"
+108	1	"Hyderbad"
+108	2	"Guntur"
+108	3	"Vijayawada"
+108	4	"Ongole"
+108	5	"Nellore"
+108	6	"Tirupathi"
+110	1	"Chennai"
+110	2	"Nellore"
+110	3	"Ongole"
+110	4	"Guntur"
+110	5	"Vijayawada"
+110	6	"Hyderbad"
+111	1	"Vijayawada"
+111	2	"Guntur"
+111	3	"Ongole"
+111	4	"Nellore"
+111	5	"Chennai"
+112	1	"Vijayawada"
+112	2	"Rajahmundry"
+112	3	"Visakhapatnam"
+109	1	"Kakinada"
+109	2	"Rajahmundry"
+109	3	"Vijayawada"
+109	4	"Ongole"
+109	5	"Nellore"
+109	7	"Banglore"
+109	6	"Tirupathi"
+114	1	"Banglore"
+114	2	"Tirupathi"
+114	3	"Nellore"
+114	4	"Ongole"
+114	5	"Vijayawada"
+114	6	"Rajahmundry"
+114	7	"Kakinada"
+
+
+-->select * from station_distances_207
+
+"station_from"	"station_to"	"distance"
+"Vijayawada"	"Guntur"	539
+"Vijayawada"	"Visakhapatnam"	365
+"Vijayawada"	"Rajahmundry"	293
+"Vijayawada"	"Kakinada"	382
+"Vijayawada"	"Nellore"	154
+"Vijayawada"	"Ongole"	589
+"Vijayawada"	"Hyderabad"	173
+"Vijayawada"	"Chennai"	287
+"Vijayawada"	"Bangalore"	475
+"Vijayawada"	"Tirupathi"	590
+"Guntur"	"Visakhapatnam"	191
+"Guntur"	"Rajahmundry"	367
+"Guntur"	"Kakinada"	353
+"Guntur"	"Nellore"	107
+"Guntur"	"Ongole"	358
+"Guntur"	"Hyderabad"	319
+"Guntur"	"Chennai"	227
+"Guntur"	"Bangalore"	579
+"Guntur"	"Tirupathi"	131
+"Visakhapatnam"	"Rajahmundry"	586
+"Visakhapatnam"	"Kakinada"	464
+"Visakhapatnam"	"Nellore"	101
+"Visakhapatnam"	"Ongole"	588
+"Visakhapatnam"	"Hyderabad"	287
+"Visakhapatnam"	"Chennai"	205
+"Visakhapatnam"	"Bangalore"	224
+"Visakhapatnam"	"Tirupathi"	342
+"Rajahmundry"	"Kakinada"	553
+"Rajahmundry"	"Nellore"	538
+"Rajahmundry"	"Ongole"	306
+"Rajahmundry"	"Hyderabad"	118
+"Rajahmundry"	"Chennai"	199
+"Rajahmundry"	"Bangalore"	322
+"Rajahmundry"	"Tirupathi"	330
+"Kakinada"	"Nellore"	243
+"Kakinada"	"Ongole"	485
+"Kakinada"	"Hyderabad"	341
+"Kakinada"	"Chennai"	134
+"Kakinada"	"Bangalore"	234
+"Kakinada"	"Tirupathi"	254
+"Nellore"	"Ongole"	292
+"Nellore"	"Hyderabad"	247
+"Nellore"	"Chennai"	504
+"Nellore"	"Bangalore"	338
+"Nellore"	"Tirupathi"	127
+"Ongole"	"Hyderabad"	168
+"Ongole"	"Chennai"	245
+"Ongole"	"Bangalore"	312
+"Ongole"	"Tirupathi"	324
+"Hyderabad"	"Chennai"	422
+"Hyderabad"	"Bangalore"	234
+"Hyderabad"	"Tirupathi"	554
+"Chennai"	"Bangalore"	197
+"Chennai"	"Tirupathi"	408
+"Bangalore"	"Tirupathi"	176
